@@ -1,0 +1,87 @@
+# Copyright (C) 2018 Theme My Login Restrictions
+# This file is distributed under the same license as the Theme My Login Restrictions package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme My Login Restrictions 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/theme-my-login-restrictions\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-09-13T13:15:57-04:00\n"
+"PO-Revision-Date: 2018-09-13T13:15:57-04:00\n"
+"X-Domain: theme-my-login-restrictions\n"
+
+#: includes/functions.php:283
+msgid "Please log in to continue."
+msgstr ""
+
+#: includes/functions.php:304
+#: includes/functions.php:401
+#: includes/admin.php:112
+msgid "Viewable By"
+msgstr ""
+
+#: includes/functions.php:307
+#: includes/functions.php:404
+msgid "Everyone"
+msgstr ""
+
+#: includes/functions.php:308
+#: includes/functions.php:405
+msgid "Authenticated Users only"
+msgstr ""
+
+#: includes/functions.php:309
+#: includes/functions.php:406
+msgid "Guests only"
+msgstr ""
+
+#: includes/functions.php:314
+#: includes/functions.php:411
+#: includes/admin.php:113
+msgid "Required Roles"
+msgstr ""
+
+#: includes/admin.php:34
+msgid "Require users to be logged in"
+msgstr ""
+
+#: includes/admin.php:38
+msgid "Require one of the following roles:"
+msgstr ""
+
+#: includes/admin.php:63
+#: tml-restrictions.php:92
+#: tml-restrictions.php:176
+msgid "Restrictions"
+msgstr ""
+
+#: includes/admin.php:153
+msgid "Require users to be logged in to view site"
+msgstr ""
+
+#: tml-restrictions.php:175
+msgid "Theme My Login Restrictions Settings"
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "Theme My Login Restrictions"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://thememylogin.com/extensions/restrictions"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds restrictions support to Theme My Login."
+msgstr ""
+
+#. Author of the plugin
+msgid "Theme My Login"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://thememylogin.com"
+msgstr ""

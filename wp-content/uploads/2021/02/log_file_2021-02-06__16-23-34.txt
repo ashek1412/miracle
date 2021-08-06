@@ -1,0 +1,87 @@
+
+---Downloaded files---
+The import files for: Helpdesk were successfully downloaded!
+Initial max execution time = 1200000
+Files info:
+Site URL = http://localhost/Projects/Wordpress/miracle-earnw
+Data file = D:\Projects\Wordpress\miracle-earnw/wp-content/themes/docly/inc/demo/contents.xml
+Widget file = D:\Projects\Wordpress\miracle-earnw/wp-content/themes/docly/inc/demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+docly_opt -> D:\Projects\Wordpress\miracle-earnw/wp-content/themes/docly/inc/demo/settings.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo" (Media)
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Widget already exists
+(Docly) Recent Posts - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - Post Tags - Imported
+Recent Comments - No Title - Widget already exists
+
+Forum Sidebar : 
+
+(Docly) Forums List - Forums - Imported
+(bbPress) Recent Topics - Recent Topics - Imported
+(bbPress) Statistics - Forum Statistics - Imported
+
+Footer Widgets : 
+
+(Docly) Subscribe Form - No Title - Imported
+Navigation Menu - Doc Contents - Imported
+Navigation Menu - Theme Elements - Imported
+(Docly) Docs List - Our Documentation - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: docly_opt finished successfully!
+
+---pt-ocdi/after_import---
+
