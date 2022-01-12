@@ -169,9 +169,6 @@ require get_template_directory() . '/inc/sidebars.php';
 
 
 
-$API_KEY="MDpOaFFGQlJ6YWhYaUlnZ0hoeWlOT3RzUlVpZWR4cGxBR3pBVkZjN1BXSkJpWUtmcEU4Rm1lS1hvTnZLQUJJWlQ3";//test api
-//$API_KEY="MDpTaE45SHF5V2tzMEZCcldzckE3V2tyMXJvdTFDTm5tdUtaU2JWcmllSjAwS1hjZUZid1FuT1BnMnZrNGpKWkVJ";//live api
-
 function addCustomer() {
 
 
